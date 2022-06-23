@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+img {
+  max-width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+h1,
+h2,
+h3 {
+  color: #231d3c;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  margin: 0;
+  font-size: 36px;
+  line-height: 48px;
+}
+.h1font {
+  font-family: "Fredericka the Great", cursive;
+}
+.fa-brands,
+fa-centos {
+  color: #9771f3;
+  background-color: #fc709b;
+  font-size: 300px;
+}
+.fa-solid,
+fa-tent-arrow-down-to-line {
+  color: #fdd14f;
+  font-size: 50px;
+}
+.fa-umbrella-beach {
+  color: #6fd5d3;
+  font-size: 200px;
+}
